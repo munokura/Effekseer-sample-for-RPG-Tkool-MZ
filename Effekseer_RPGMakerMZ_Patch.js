@@ -8,7 +8,7 @@
 
 /*:
  * @target MZ
- * @url https://raw.githubusercontent.com/munokura/Effekseer-sample-for-RPG-Tkool-MZ/master/Effekseer_RPGMakerMZ.js
+ * @url https://raw.githubusercontent.com/munokura/Effekseer-sample-for-RPG-Tkool-MZ/master/Effekseer_RPGMakerMZ_Patch.js
  * @plugindesc v1.0.1 パーティクル数が過多で、正常に表示できないエフェクトを表示可能にします。
  * @author Effekseer
  *
