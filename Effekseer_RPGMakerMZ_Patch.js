@@ -1,7 +1,7 @@
 /*
  * --------------------------------------------------
  * Effekseer_RPGMakerMZ_Patch Ver.1.0.1
- * This software is released under theCC0 1.0 Universal.
+ * This software is released under the CC0 1.0 Universal.
  * https://creativecommons.org/publicdomain/zero/1.0/deed.en
  * --------------------------------------------------
  */
