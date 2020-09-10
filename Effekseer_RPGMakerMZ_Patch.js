@@ -16,6 +16,10 @@
  * RPGツクールMZ v1.0.1 で
  * パーティクル数が過多で、正常に表示できないエフェクトを表示可能にします。
  *
+ * このプラグインは当座しのぎでアップされました。
+ * Effekseer公式からプラグインが出たので、そちらをご利用ください。
+ * https://raw.githubusercontent.com/effekseer/EffekseerForRPGMakerMZ_Ex/master/EffekseerForRPGMakerMZ_Ex.js
+ *
  * 注意
  * 　このプラグインが反映するのは「戦闘テスト」「戦闘シーン」のみです。
  * 　データベース操作での、エフェクトの選択時のプレビューや
